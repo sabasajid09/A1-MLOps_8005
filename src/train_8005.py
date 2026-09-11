@@ -8,7 +8,7 @@ import joblib
 STUDENT_ID = "Saba_8005"
 
 # 1. Load dataset
-data = pd.read_csv("dataset.csv")
+data = pd.read_csv("/content/A1-MLOps_8005/data/dataset.csv")
 
 print("Dataset loaded successfully.")
 print("Dataset shape:", data.shape)
