@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Raw datasets
+data/*.csv
+
+# Trained model files
+model/*.pkl
+model/*.joblib
