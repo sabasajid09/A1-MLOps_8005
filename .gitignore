@@ -3,6 +3,7 @@ data/*
 
 # Ignore everything inside model/
 model/*
+model/house_price_model_8005.pkl
 
 # Keep the model directory in Git
 !model/.gitkeep
